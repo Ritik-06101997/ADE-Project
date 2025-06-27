@@ -73,6 +73,18 @@ Business user need this.
 * Also we create one separate folder configs ( metadata driven pipelines)
 
 * It will have data like database, data source, tablename, load type(Incremental/Full), watermark, is_active, targetpath
+
+# Linked Service
+* Azure SQL DB
+* ADLS Gen 2
+* Delta lake
+* Key Vault
+
+# Datasets
+* Azure SQL (DB database A, B)
+* Delimited Text (ADLS Gen2)
+* Parquet (ADLS Gen2)
+* Databricks delta lake (Delta Lake)
   
 
 
